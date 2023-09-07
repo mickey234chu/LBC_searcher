@@ -41,3 +41,53 @@ public class ShowIdentitylist extends AppCompatActivity {
         }
     }
 }
+//json格式
+/*
+{
+	"id":1,
+	"name":'',
+	"identity":'',
+	"info":
+			{
+			 "rank":1,
+			 "Season":1,
+			 "World":"",
+			 "Release":""
+			},
+
+	"skill":
+			{
+				"s1":
+					{
+					},
+				"s2":
+					{
+					},
+				"s3":
+					{
+					},
+				"s4"
+					{
+					},
+				"passive":
+						{
+						}
+
+			},
+	"Status":
+			{
+				"HP":100,
+				"Speed":[3,7],
+				"defend":31
+			},
+	"Resistances":
+				  {
+					"Slash":1.0,
+					"Pierce":0.5,
+					"Blunt":2.0
+				  },
+	"Thresholds":[70,40,20]
+
+
+}
+ */
